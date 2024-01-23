@@ -1,4 +1,4 @@
-# Lexicon_JS_DOM_Manipulation
+# DOM Manipulation
 
 ## Part 1
 Getting data from the DOM.
